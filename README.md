@@ -23,11 +23,6 @@ A simple and user-friendly Android application built using **Kotlin** that helps
 
 ---
 
-## 📱 Screenshots
-
-*(Add your app screenshots here)*
-
----
 
 ## ⚙️ How It Works
 
@@ -52,11 +47,6 @@ A simple and user-friendly Android application built using **Kotlin** that helps
 * `activity_main.xml` – Defines UI layout
 * `utils/` (if any) – Helper functions
 
----
-
-## 🔗 GitHub Repository
-
-[Paste your repository link here]
 
 ---
 
@@ -69,11 +59,6 @@ A simple and user-friendly Android application built using **Kotlin** that helps
 
 ---
 
-## 🙋‍♀️ About Me
-
-I am an aspiring Android Developer passionate about building real-world applications and continuously improving my development skills.
-
----
 
 ⭐ If you found this project useful, feel free to give it a star!
 
